@@ -1,0 +1,20 @@
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\bin\Debug\Фрактальные множества.exe.config
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\bin\Debug\Фрактальные множества.exe
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\bin\Debug\Фрактальные множества.pdb
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.csprojAssemblyReference.cache
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные_множества.Form1.resources
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные_множества.Properties.Resources.resources
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.csproj.GenerateResource.cache
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.csproj.CoreCompileInputs.cache
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.exe
+C:\Users\ayazk\source\repos\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.pdb
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\bin\Debug\Фрактальные множества.exe.config
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\bin\Debug\Фрактальные множества.exe
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\bin\Debug\Фрактальные множества.pdb
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.csprojAssemblyReference.cache
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные_множества.Form1.resources
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные_множества.Properties.Resources.resources
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.csproj.GenerateResource.cache
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.csproj.CoreCompileInputs.cache
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.exe
+C:\Users\ayazk\Desktop\Фрактальные множества\Фрактальные множества\Фрактальные множества\obj\Debug\Фрактальные множества.pdb
